@@ -1,2 +1,1 @@
-# DogApp
-this is for dog lovers
+TinDog Starting Files
